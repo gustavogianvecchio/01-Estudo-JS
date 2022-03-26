@@ -15,4 +15,5 @@ Projetos e estudos realizados seguindo as aulas do Canal do YouTube de [Roger Me
 
 ### Estudos
 
-- [Promisses - Introdução e Prática (iniciando)] ()
+- [Promises - Introdução e Prática (comentado)](https://github.com/gustavogianvecchio/JSFluency-01-Promises);
+   - [Visualize o resultado aqui](https://gustavogianvecchio.github.io/JSFluency-01-Promises/);
